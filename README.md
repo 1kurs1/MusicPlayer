@@ -10,4 +10,4 @@
 
 ## Images:
 
-<center><img src="https://github.com/1kurs1/MusicPlayer/assets/87440352/f89314f0-4f8a-4c0f-9c09-e7a01e7ac8ad" height=600></img></center>
+<center><img src="https://github.com/1kurs1/MusicPlayer/assets/87440352/485cc8f7-fcfd-4948-bf06-3bc3dd846e34" height=600></img></center>
