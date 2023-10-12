@@ -3,7 +3,7 @@
 ## Build:
 > Linux && MacOS:
   ```bash
-    cd Build && make run
+    cd build && make run
   ```
 
     
