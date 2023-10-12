@@ -5,7 +5,9 @@
             "includePath": [
                 "${default}",
                 "${workspaceFolder}",
-                "/usr/local/include/"
+                "/usr/local/include/",
+                "${workspaceFolder}/imgui",
+                "${workspaceFolder}/headers/core"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
